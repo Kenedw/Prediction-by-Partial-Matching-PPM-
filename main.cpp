@@ -1,3 +1,5 @@
+#include "main.h"
+
 //  begin
 //     while (not last character) do
 //       begin
